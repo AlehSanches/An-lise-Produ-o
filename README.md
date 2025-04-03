@@ -1,0 +1,2 @@
+-Utilizar google colab ou vscode
+-vscode com a extensão de pandas,jupiter
